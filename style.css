@@ -290,6 +290,10 @@ section {
 .about-pic {
   border-radius: 2rem;
 }
+.prof-pic{
+  border-radius: 4rem;
+}
+
 
 .arrow {
   position: absolute;
